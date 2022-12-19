@@ -48,6 +48,10 @@
 </q-menu>
 </q-btn>
 
+   <q-icon size="md" name="help" class="tw-text-gray-600 tw-mr-2 tw-bg-transparent"/>
+
+   <q-icon size="md" name="more_vert" class=" tw-text-gray-600 tw-mr-2 tw-bg-transparent"/>
+
     <q-btn round>
       <q-avatar size="42px">
         <img src="~/assets/img/tarik-logo.png">
